@@ -13,3 +13,21 @@ pip install -r requirement.txt
 ```
 <br>
 <br>
+```
+python model.py
+```
+<br>
+<br>
+
+## Getting Started
+
+To run code on your computer, following command in terminal<br><br>
+```
+python app.py
+```
+<br>
+<br>
+
+
+### Thank you
+
