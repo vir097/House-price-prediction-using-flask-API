@@ -25,6 +25,8 @@ python model.py
 To run code on your computer, following command in terminal<br><br>
 ```
 python app.py
+
+flask run
 ```
 <br>
 <br>
